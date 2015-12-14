@@ -4,7 +4,7 @@
         <description><![CDATA[Aspectlux]]></description>
         <link>https://thegrid.ai/aspectlux/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Dec 2015 03:16:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Dec 2015 03:16:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/aspectlux/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About Us]]></title>
@@ -22,13 +22,6 @@ of experience in the photography and graphic design industry.</p></article>]]></
             <link>https://thegrid.ai/aspectlux/bios/index.html</link>
             <guid isPermaLink="false">5db72742-a1a8-41df-a20d-2c9d95d5fcfc</guid>
             <pubDate>Mon, 14 Dec 2015 03:15:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Getting Started on The Grid]]></title>
-            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>https://thegrid.ai/aspectlux/getting-started-on-the-grid/index.html</link>
-            <guid isPermaLink="false">c9aea554-1098-41eb-be08-94a8a38316a4</guid>
-            <pubDate>Mon, 14 Dec 2015 03:13:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
