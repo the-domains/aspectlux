@@ -4,8 +4,15 @@
         <description><![CDATA[Aspectlux]]></description>
         <link>https://thegrid.ai/aspectlux/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Dec 2015 03:16:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Dec 2015 02:59:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/aspectlux/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8daaec6e-402d-4ece-8d27-abe24965cd5b.jpg">]]></description>
+            <link>https://thegrid.ai/aspectlux/859946e6-9dbe-413b-a2ee-11aabcbfde8c/index.html</link>
+            <guid isPermaLink="false">859946e6-9dbe-413b-a2ee-11aabcbfde8c</guid>
+            <pubDate>Sat, 19 Dec 2015 02:58:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About Us]]></title>
             <description><![CDATA[<article><h1>About Us</h1><p>For years, Brazilian born photographers Rafael Ferreira and Mario Cardoso
@@ -18,7 +25,9 @@ of experience in the photography and graphic design industry.</p></article>]]></
         </item>
         <item>
             <title><![CDATA[Bios]]></title>
-            <description><![CDATA[<h1>Bios</h1>]]></description>
+            <description><![CDATA[<article><h1>Bios</h1><p>Mario Cardoso is a seasoned Art Director, with over 
+10 years of experience working for world-renowned brands in advertising 
+agencies across Brazil and Canada.</p></article>]]></description>
             <link>https://thegrid.ai/aspectlux/bios/index.html</link>
             <guid isPermaLink="false">5db72742-a1a8-41df-a20d-2c9d95d5fcfc</guid>
             <pubDate>Mon, 14 Dec 2015 03:15:50 GMT</pubDate>
