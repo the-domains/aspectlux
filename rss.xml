@@ -4,8 +4,15 @@
         <description><![CDATA[Aspectlux]]></description>
         <link>https://thegrid.ai/aspectlux/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Dec 2015 02:59:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Feb 2016 23:33:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/aspectlux/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This should be a contact form]]></title>
+            <description><![CDATA[<article><h1>This should be a contact form</h1><p>Contact Form</p></article>]]></description>
+            <link>https://thegrid.ai/aspectlux/this-should-be-a-contact-form/index.html</link>
+            <guid isPermaLink="false">2a06d357-ffc3-4ef2-af43-946bc33b391b</guid>
+            <pubDate>Sat, 06 Feb 2016 23:33:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8daaec6e-402d-4ece-8d27-abe24965cd5b.jpg">]]></description>
